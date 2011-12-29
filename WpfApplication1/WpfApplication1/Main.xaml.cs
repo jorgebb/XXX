@@ -27,6 +27,7 @@ namespace CODEONE
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             // ALTERADO
+            // Alterado no master
         }
 
      
