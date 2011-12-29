@@ -16,6 +16,7 @@ namespace CODEONE
 {
     /// <summary>
     /// Interaction logic for Window1.xaml
+    /// Versão 3.0
     /// </summary>
     public partial class MainWindow : Window
     {
